@@ -2,7 +2,7 @@
 
 Decentralised Peer to Peer Carpooling Application A carpooling application with user friendly interface, approximate pricing and transparency which helps to reduce Data Breaching and misuse of data.
 
-# Photos 
+# About
 ![Screenshot 2023-03-07 213154](https://user-images.githubusercontent.com/52412969/223478384-29f7c3d0-ac46-45f5-9866-fc7ec27c9db2.png)
 ![WhatsApp Image 2023-03-07 at 21 31 18](https://user-images.githubusercontent.com/52412969/223479211-e798499e-9efc-4c04-931a-bf79bec7c622.jpg)
 ![WhatsApp Image 2023-03-07 at 21 32 43](https://user-images.githubusercontent.com/52412969/223479233-4486f26f-80d7-49bb-9bb2-a6d3ea87621a.jpg)
