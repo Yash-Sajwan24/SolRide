@@ -1,3 +1,13 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.sol-logo{
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 50px;
+    font-family: 'Poppin';
+    color: #6D67E4;
+}
