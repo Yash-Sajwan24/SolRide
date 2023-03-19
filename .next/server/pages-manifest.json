@@ -2,7 +2,6 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/api/db/getUserInfo": "pages/api/db/getUserInfo.js",
-  "/api/db/getTrips": "pages/api/db/getTrips.js"
+  "/api/db/getTrips": "pages/api/db/getTrips.js",
+  "/": "pages/index.js"
 }
